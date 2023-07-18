@@ -9,4 +9,5 @@ Dio.Me Bootcamp Potência Tech powered by iFood | Ciência de Dados com Python
 
 <ol>
     <li> Princípios de Desenvolvimento de Software </li>
+    <li> Dominando o Python para Ciência de Dados </li>
 </ol>

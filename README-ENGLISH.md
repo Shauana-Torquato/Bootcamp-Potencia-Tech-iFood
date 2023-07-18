@@ -9,4 +9,5 @@ Dio.Me Bootcamp Power Tech powered by iFood | Data Science with Python
 
 <ol>
     <li> Software Development Principles </li>
+    <li> Mastering Python for Data Science </li>
 </ol>
