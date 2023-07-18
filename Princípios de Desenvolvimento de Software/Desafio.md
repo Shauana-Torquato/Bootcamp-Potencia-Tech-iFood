@@ -43,6 +43,12 @@ Crie um commit e adicione a mensagem indicando a adição do seu perfil git comm
 Envie as alterações para o seu repositório remoto git push origin feat/community/seunomedeusuario;</li>
 <li>
 Crie um Pull Request.</li>
+
+<p>
+<h4>Resolução</h4>
+Resolução encontrada em:
+https://github.com/Shauana-Torquato/dio-lab-open-source-desafio-modulo-1/blob/main/community/Shau.md
+</p>
 </body>
 
 
