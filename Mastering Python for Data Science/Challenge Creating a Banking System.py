@@ -37,6 +37,7 @@ while True:
 
             if exceeded_balance:
                   print ("Operation Not Valid! The balance is not enough to conclude the operation")
+
             elif exceeded_limit:
                   print ("Operation Not Valid! The requested amount for the withdraw exceeded the daily limit")
 
