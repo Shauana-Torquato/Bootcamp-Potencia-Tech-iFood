@@ -12,12 +12,10 @@
             <li>Estruturas Condicionais e de Repetição em Python</li>
             <li>Manipulando Strings com Python</li>
             <li>Criando um Sistema Bancário com Python</li>
-	    <li>Trabalhando com Listas em Python</li>
+            <li>Trabalhando com Listas em Python</li>
             <li>Conhecendo Tuplas em Python</li>
             <li>Explorando Conjuntos em Python</li>
-	    <li>Aprendendo a utilizar Dicionários em Python</li>
+            <li>Aprendendo a utilizar Dicionários em Python</li>
             <li>Dominando Funções em Python</li>
-            <li>Otimizando o Sistema Bancário com Funções Python</li>
-
-    </ol>
+            <li>Otimizando o Sistema Bancário com Funções Python</li></ol>
 </body>
